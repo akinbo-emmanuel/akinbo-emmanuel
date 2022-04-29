@@ -1,16 +1,50 @@
 ### Hi there 👋
+  ![](https://komarev.com/ghpvc/?username=akinbo-emmanuel&color=blueviolet&style=plastic)
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=akinbo-emmanuel.akinbo-emmanuel")
+  [![Repos Badge](https://badges.pufler.dev/repos/akinbo-emmanuel)](https://badges.pufler.dev)
 
-<!--
-**akinbo-emmanuel/akinbo-emmanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  I'm a website developer with much passion for design and technology. <br>
+  I'm willing to improve my skills through team work and constant learning with practice.
+  
+  **Languages and Tools:**  
 
-Here are some ideas to get you started:
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![trophy](https://github-profile-trophy.vercel.app/?username=akinbo-emmanuel&theme=monokai&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+
+### 🌱 I’m currently learning ...
+  JavaScript
+ 
+### 👯 I’m looking to collaborate on ...
+  Projects related to Full Stack Development.
+
+
+### 💬 Ask me about ...
+  Full Stack Development 📱💻
+
+### 📫 How to reach me: ...
+  
+  <h3 align="left">Connect with me:</h3>
+<p align="left">
+  
+<code><a href="https://twitter.com/EmmanuelAkinb13" title="Twitter Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"> Twitter</a></code>
+<code><a href="https://www.linkedin.com/in/emmanuel-akinbo" title="Linkedin Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"> Linkedin</a></code> 
+<code><a href="https://www.instagram.com/_emmanuelakinbo" title="Instagram Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"> Instagram</a></code>
+  
+</p>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akinbo-emmanuel&theme=monokai)](https://git.io/streak-stats)
+
+[![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=akinbo-emmanuel)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akinbo-emmanuel)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://activity-graph.herokuapp.com/graph?username=akinbo-emmanuel&theme=react-dark&bg_color=20232a&border_color=61dafb&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a" width="60%"/>
