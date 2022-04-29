@@ -3,8 +3,8 @@
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=akinbo-emmanuel.akinbo-emmanuel")
   [![Repos Badge](https://badges.pufler.dev/repos/akinbo-emmanuel)](https://badges.pufler.dev)
 
-  I'm a website developer with much passion for design and technology. <br>
-  I'm willing to improve my skills through team work and constant learning with practice.
+  I'm a Full Stack Developer with much passion for technology and coding <br>
+  I'm willing to improve my skills through team work and consistent learning with practice.
   
   **Languages and Tools:**  
 
