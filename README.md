@@ -2,9 +2,12 @@
   ![](https://komarev.com/ghpvc/?username=akinbo-emmanuel&color=blueviolet&style=plastic)
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=akinbo-emmanuel.akinbo-emmanuel")
   [![Repos Badge](https://badges.pufler.dev/repos/akinbo-emmanuel)](https://badges.pufler.dev)
+  
+  I am a Blockchain Developer with industry experience building decentralized applications. I specialize in JavaScript and have professional experience   working with Solidity. I also have experience working with React. Take a look at my work or get in touch! https://www.emmanuelakinbo1.netlify.app
 
-  I'm a Blockchain Developer with much passion for technology and coding <br>
-  I'm willing to improve my skills through team work and consistent learning with practice.
+  I’ve always been a great problem solver, an independent introvert, and a technophile. I started learning to code when I was a teenager, though it was always more of a hobby than a career focus till I decided to pursue a degree in Computer Science.
+
+  I’m familiar with a variety of programming languages, including JavaScript, HTML, CSS, React, Solidity and Web3.js but I’m always adding new skills to my repertoire. I’m also eager to meet other Blockchain Engineers in the area, so feel free to connect!
   
   **Languages and Tools:**  
 
