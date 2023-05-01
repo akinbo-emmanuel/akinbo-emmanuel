@@ -3,11 +3,13 @@
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=akinbo-emmanuel.akinbo-emmanuel")
   [![Repos Badge](https://badges.pufler.dev/repos/akinbo-emmanuel)](https://badges.pufler.dev)
   
-  I am a Blockchain Developer with industry experience building decentralized applications. I specialize in JavaScript and have professional experience   working with Solidity. I also have experience working with React. Take a look at my work or get in touch! https://www.emmanuelakinbo1.netlify.app
+  As an experienced Front-End Developer, I am passionate about using my skills to create beautiful, functional, and user-friendly web applications. With a solid foundation in HTML, CSS, and JavaScript, I am constantly expanding my knowledge of frameworks and libraries like React, and Next.js. My experience ranges from building simple landing pages to complex web applications that require integrating with multiple APIs and databases.
 
-  I’ve always been a great problem solver, an independent introvert, and a technophile. I started learning to code when I was a teenager, though it was always more of a hobby than a career focus till I decided to pursue a degree in Computer Science.
+I have a strong eye for design, and I collaborate closely with designers, product managers, and back-end developers to ensure that the front-end of our applications meets the highest standards of usability, accessibility, and performance. I am experienced in using modern tools such as Git, and I always stay up-to-date with the latest industry trends and best practices.
 
-  I’m familiar with a variety of programming languages, including JavaScript, HTML, CSS, React, Solidity and Web3.js but I’m always adding new skills to my repertoire. I’m also eager to meet other Blockchain Engineers in the area, so feel free to connect!
+Throughout my career, I have contributed to a variety of projects in different industries. I have experience working in agile teams, and I am comfortable communicating with stakeholders at all levels of an organisation. My strengths include problem-solving, attention to detail, and a commitment to delivering high-quality work on time.
+
+If you're looking for a Front-End Developer who is passionate about building web applications that delight users and drive business outcomes, please don't hesitate to get in touch. I am open to new opportunities and eager to take on new challenges.
   
   **Languages and Tools:**  
 
@@ -28,11 +30,11 @@
   Solidity
  
 ### 👯 I’m looking to collaborate on ...
-  Projects related to Blockchain Development.
+  Projects related to Frontend and Blockchain Development.
 
 
 ### 💬 Ask me about ...
-  Blockchain Development 📱💻
+  Frontend and Blockchain Development 📱💻
 
 ### 📫 How to reach me: ...
   
