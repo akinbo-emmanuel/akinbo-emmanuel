@@ -1,5 +1,5 @@
 # 👋 Hello, I'm **Emmanuel Akinbo!** 🚀  
-**Frontend Engineer | Web3 Developer | Problem Solver**
+**Frontend Engineer | Web3 Developer | Aspiring DevOps Engineer | Problem Solver**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=akinbo-emmanuel&color=blueviolet&style=plastic)  
 ![GitHub Visitors](https://visitor-badge.laobi.icu/badge?page_id=akinbo-emmanuel)  
@@ -10,8 +10,12 @@
 I am a **Frontend Engineer** passionate about **crafting interactive, scalable, and high-performing web applications**. With expertise in **React, Next.js, and TypeScript**, I build seamless digital experiences with **strong UI/UX principles**.
 
 🔹 **Tech Stacks:** React.js, Next.js, TypeScript, Tailwind CSS, Web3, Solidity  
-🔹 **Currently Learning:** Blockchain & Web3 Development  
+🔹 **Currently Learning:** Blockchain, Web3 & DevOps  
 🔹 **Portfolio:** [🌐 Visit My Website](https://emmanuelakinbo.vercel.app)  
+
+💡 **New Journey:** I just started my **DevOps journey**! 🚀  
+🔸 **Level:** Complete beginner but eager to be a pro!  
+🔸 **Focus Areas:** CI/CD, Docker, Kubernetes, AWS, Cloud Computing  
 
 ---
 
@@ -26,6 +30,12 @@ I am a **Frontend Engineer** passionate about **crafting interactive, scalable, 
 ### 🎨 Styling & UI  
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
+
+### ⚡ DevOps & Cloud (Beginner)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  
 
 ### 🔧 Tools & Version Control  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
@@ -55,7 +65,7 @@ I am a **Frontend Engineer** passionate about **crafting interactive, scalable, 
 ## 💡 What I'm Learning  
 🌱 **Currently Exploring:**  
 ✔ Blockchain & Smart Contracts (Solidity, Web3.js)  
-✔ Performance Optimization for Large-Scale Web Apps  
+✔ DevOps (CI/CD, AWS, Docker, Kubernetes)  
 ✔ Advanced State Management (Redux, Zustand)  
 
 ---
@@ -69,7 +79,7 @@ I am a **Frontend Engineer** passionate about **crafting interactive, scalable, 
 ---
 
 ## 🎯 Let's Collaborate!  
-I love **building impactful web applications** and am always open to collaborations on exciting **Frontend & Blockchain projects**. If you have an idea, **let's connect and create something amazing together!**  
+I love **building impactful web applications** and am always open to collaborations on exciting **Frontend, Web3, and DevOps projects**. If you have an idea, **let's connect and create something amazing together!**  
 
 🚀 **Let's build the future, one line of code at a time!** 🚀  
 
