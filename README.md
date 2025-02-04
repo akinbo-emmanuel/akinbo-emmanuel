@@ -47,7 +47,7 @@ If you're looking for a Front-End Developer who is passionate about building web
   
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=akinbo-emmanuel)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=akinbo-emmanuel&hide_border=true)](https://git.io/streak-stats)
 
 [![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=akinbo-emmanuel)](https://github.com/anuraghazra/github-readme-stats)
 
