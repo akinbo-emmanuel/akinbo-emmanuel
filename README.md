@@ -1,56 +1,91 @@
-### Hi there 👋
-  ![](https://komarev.com/ghpvc/?username=akinbo-emmanuel&color=blueviolet&style=plastic)
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=akinbo-emmanuel.akinbo-emmanuel")
-  [![Repos Badge](https://badges.pufler.dev/repos/akinbo-emmanuel)](https://badges.pufler.dev)
-  
-  As an experienced Front-End Developer, I am passionate about using my skills to create beautiful, functional, and user-friendly web applications. With a solid foundation in HTML, CSS, and JavaScript, I am constantly expanding my knowledge of frameworks and libraries like React, and Next.js. My experience ranges from building simple landing pages to complex web applications that require integrating with multiple APIs and databases.
+# 👋 Hello, I'm **Emmanuel Akinbo!** 🚀  
+**Frontend Engineer | Web3 Developer | Problem Solver**
 
-I have a strong eye for design, and I collaborate closely with designers, product managers, and back-end developers to ensure that the front-end of our applications meets the highest standards of usability, accessibility, and performance. I am experienced in using modern tools such as Git, and I always stay up-to-date with the latest industry trends and best practices.
+![Profile Views](https://komarev.com/ghpvc/?username=akinbo-emmanuel&color=blueviolet&style=plastic)  
+![GitHub Visitors](https://visitor-badge.laobi.icu/badge?page_id=akinbo-emmanuel)  
 
-Throughout my career, I have contributed to a variety of projects in different industries. I have experience working in agile teams, and I am comfortable communicating with stakeholders at all levels of an organisation. My strengths include problem-solving, attention to detail, and a commitment to delivering high-quality work on time.
+---
 
-If you're looking for a Front-End Developer who is passionate about building web applications that delight users and drive business outcomes, please don't hesitate to get in touch. I am open to new opportunities and eager to take on new challenges.
-  
-  **Languages and Tools:**  
+## 🚀 About Me  
+I am a **Frontend Engineer** passionate about **crafting interactive, scalable, and high-performing web applications**. With expertise in **React, Next.js, and TypeScript**, I build seamless digital experiences with **strong UI/UX principles**.
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/solidity/solidity.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/web3/web3.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+🔹 **Tech Stacks:** React.js, Next.js, TypeScript, Tailwind CSS, Web3, Solidity  
+🔹 **Currently Learning:** Blockchain & Web3 Development  
+🔹 **Portfolio:** [🌐 Visit My Website](https://emmanuelakinbo.vercel.app)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=akinbo-emmanuel&theme=monokai&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+## 🔧 Tech Stack & Tools  
+### 🖥️ Languages & Frameworks  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)  
 
-### 🌱 I’m currently learning ...
-  Solidity
- 
-### 👯 I’m looking to collaborate on ...
-  Projects related to Frontend and Blockchain Development.
+### 🎨 Styling & UI  
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
 
+### 🔧 Tools & Version Control  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
-### 💬 Ask me about ...
-  Frontend and Blockchain Development 📱💻
+---
 
-### 📫 How to reach me: ...
-  
-  <h3 align="left">Connect with me:</h3>
-<p align="left">
-  
-<code><a href="https://twitter.com/_emmanuelakinbo" title="Twitter Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"> Twitter</a></code>
-<code><a href="https://www.linkedin.com/in/emmanuel-akinbo" title="Linkedin Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"> Linkedin</a></code> 
-<code><a href="https://www.instagram.com/_emmanuelakinbo" title="Instagram Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"> Instagram</a></code>
-  
-</p>
+## 🏆 GitHub Stats  
+📊 **My GitHub Activity:**  
+![GitHub Streak](https://streak-stats.demolab.com?user=akinbo-emmanuel&theme=dark&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akinbo-emmanuel&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akinbo-emmanuel&layout=compact&theme=radical)  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=akinbo-emmanuel&hide_border=true)](https://git.io/streak-stats)
+---
 
-[![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=akinbo-emmanuel)](https://github.com/anuraghazra/github-readme-stats)
+## 🚀 Notable Projects  
+📌 **[Walmart Clone](https://walmartclone.vercel.app/)** – **Built with Next.js, TailwindCSS, Zustand**  
+📌 **[Pond5 Clone](https://pond5-clone.vercel.app/)** – **Replicated an image/video stock marketplace**  
+📌 **[Random User Generator](https://randomusergenerator21.netlify.app/)** – **Generates dynamic user data**  
+📌 **[Twitter Clone](https://twitterclone21.netlify.app/)** – **Twitter UI replica**  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akinbo-emmanuel)](https://github.com/anuraghazra/github-readme-stats)
+🔗 **Explore More:** [📂 GitHub Repositories](https://github.com/akinbo-emmanuel?tab=repositories)
 
-<img src="https://activity-graph.herokuapp.com/graph?username=akinbo-emmanuel&theme=react-dark&bg_color=20232a&border_color=61dafb&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a" width="60%"/>
+---
+
+## 💡 What I'm Learning  
+🌱 **Currently Exploring:**  
+✔ Blockchain & Smart Contracts (Solidity, Web3.js)  
+✔ Performance Optimization for Large-Scale Web Apps  
+✔ Advanced State Management (Redux, Zustand)  
+
+---
+
+## 📬 Connect With Me  
+📩 **Email:** [emmaakinbo24@gmail.com](mailto:emmaakinbo24@gmail.com)  
+💼 **LinkedIn:** [Emmanuel Akinbo](https://www.linkedin.com/in/emmanuel-akinbo)  
+🐦 **Twitter:** [@_emmanuelakinbo](https://twitter.com/_emmanuelakinbo)  
+📸 **Instagram:** [@_emmanuelakinbo](https://www.instagram.com/_emmanuelakinbo)  
+
+---
+
+## 🎯 Let's Collaborate!  
+I love **building impactful web applications** and am always open to collaborations on exciting **Frontend & Blockchain projects**. If you have an idea, **let's connect and create something amazing together!**  
+
+🚀 **Let's build the future, one line of code at a time!** 🚀  
+
+---
+
+### ✨ Fun Fact  
+_"Code is like humor. When you have to explain it, it’s bad." – Cory House_  
+
+![Motivational Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+## 🔥 Activity Graph  
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akinbo-emmanuel&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 💖 Thanks for stopping by! 🚀  
+**Feel free to explore my work, contribute, or reach out for collaborations.** **Happy Coding!** 😊  
